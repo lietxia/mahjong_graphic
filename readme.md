@@ -4,6 +4,12 @@ https://github.com/SyaoranHinata/I.Mahjong
 
 一点麻将又用到GL-MahjongTile
 
+贴吧里
+https://tieba.baidu.com/p/4098240522
+和
+https://tieba.baidu.com/p/4098238310
+都是我发的贴子
+
 # 许可
 本字型檔案採用「M+字型授權條款」釋出。如下：
 
