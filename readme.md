@@ -1,6 +1,7 @@
 # Mahjong graphic 麻将牌图形
 ![preview](preview.png)
 ![preview](PNG%20位图/雀魂样式%20majsoul%20style/purple/mjui.png)
+![preview](PNG%20位图/雀魂样式%20majsoul%20style/black/mjui.png)
 
 [gitee国内镜像](https://gitee.com/lietxia_admin/mahjong_graphic)  
 [github仓库](https://github.com/lietxia/mahjong_graphic)
