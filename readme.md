@@ -1,4 +1,5 @@
 # Mahjong graphic 麻将牌图形
+![preview](preview.png)
 部分图形来自【一点麻将】
 https://github.com/SyaoranHinata/I.Mahjong
 
