@@ -1,9 +1,8 @@
 # Mahjong graphic 麻将牌图形
 ![preview](preview.png)
-部分图形来自【一点麻将】
-https://github.com/SyaoranHinata/I.Mahjong
-
-一点麻将又用到GL-MahjongTile
+部分图形(一万至九万、东南西北白发中)是来自于【一点麻将】  
+https://github.com/SyaoranHinata/I.Mahjong  
+一点麻将是用GL-MahjongTile修改的  
 
 贴吧里
 https://tieba.baidu.com/p/4098240522
