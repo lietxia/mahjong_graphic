@@ -3,8 +3,12 @@
 ![preview](PNG%20位图/雀魂样式%20majsoul%20style/purple/mjui.png)
 ![preview](PNG%20位图/雀魂样式%20majsoul%20style/black/mjui.png)
 
-[gitee国内镜像](https://gitee.com/lietxia_admin/mahjong_graphic)  
-[github仓库](https://github.com/lietxia/mahjong_graphic)
+[github原始仓库](https://github.com/lietxia/mahjong_graphic)  
+[gitee国内仓库](https://gitee.com/lietxia_admin/mahjong_graphic)  
+
+下载方式：  
+[github下载](https://github.com/lietxia/mahjong_graphic/archive/refs/heads/main.zip)  
+[gitee下载](https://gitee.com/lietxia_admin/mahjong_graphic/repository/archive/main.zip)
 
 部分图形(一万至九万、东南西北白发中)是来自于【一点麻将】  
 https://github.com/SyaoranHinata/I.Mahjong  
