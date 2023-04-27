@@ -10,7 +10,8 @@
 [github下载](https://github.com/lietxia/mahjong_graphic/archive/refs/heads/main.zip)  
 [gitee下载](https://gitee.com/lietxia_admin/mahjong_graphic/repository/archive/main.zip)
 
-部分图形(一万至九万、东南西北白发中)是来自于【一点麻将】  
+部分图形是来自于【一点麻将】  
+(一万至九万、东南西北白发中，其中一种一索，其中一种一筒)  
 https://github.com/SyaoranHinata/I.Mahjong  
 一点麻将是用GL-MahjongTile修改的  
 
