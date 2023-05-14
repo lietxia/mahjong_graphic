@@ -1,4 +1,7 @@
 # Mahjong graphic 麻将牌图形
+广告1：我做的麻将地图 [雀士远征踢馆指南](https://r-mj.com/)  
+广告2：线下段位场 [雀庄公式战](https://rate.r-mj.com/)
+
 ![preview](preview.png)
 ![preview](PNG%20位图/雀魂样式%20majsoul%20style/purple/mjui.png)
 ![preview](PNG%20位图/雀魂样式%20majsoul%20style/black/mjui.png)
