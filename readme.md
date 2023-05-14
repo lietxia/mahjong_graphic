@@ -11,7 +11,9 @@
 
 下载方式：  
 [github下载](https://github.com/lietxia/mahjong_graphic/archive/refs/heads/main.zip)  
+[ghproxy镜像github](https://ghproxy.com/https://github.com/lietxia/mahjong_graphic/archive/refs/heads/main.zip)
 [gitee下载](https://gitee.com/lietxia_admin/mahjong_graphic/repository/archive/main.zip)
+[百度网盘 提取码: 5k5z](https://pan.baidu.com/s/1QgwsDtkfuwg1xDq7KzQwrQ?pwd=5k5z)
 
 部分图形是来自于【一点麻将】  
 (一万至九万、东南西北白发中，其中一种一索，其中一种一筒)  
